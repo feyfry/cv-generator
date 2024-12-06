@@ -1,4 +1,3 @@
-// App.jsx
 import CVBuilder from './components/CVBuilder';
 import { FacebookLogo, TelegramLogo, GithubLogo, FileText } from 'phosphor-react';
 
