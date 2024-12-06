@@ -1,4 +1,3 @@
-// CVBuilder.jsx
 import { useState, useRef } from 'react';
 import CVForm from './CVForm';
 import CVPreview from './CVPreview';
